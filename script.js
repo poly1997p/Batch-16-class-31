@@ -70,3 +70,76 @@ let data4 = 6;
 let remainder = data3%data4;
 
 console.log(remainder)
+
+console.log('hello everyone');
+
+//new way variable decleare
+
+let amount;
+let number;
+
+amount= 60;
+number= 2;
+
+let finalAmount=amount*number;
+
+console.log(finalAmount);
+
+//then jodi value take update korte cay tahole 
+
+amount= 80;
+number= 3;
+
+let updateAmount= amount*number;
+console.log(updateAmount);
+
+//const er khetre value sathe sathe bosate hoy
+
+const rose= 40;
+
+let rosePrice4= rose*4;
+
+console.log(rosePrice4);
+//const er khetre update value hoyna..only var o let er khetre hoi
+
+
+
+let fish;
+var onion;
+var veg;
+
+fish= 30;
+onion= 40;
+veg= 30;
+
+let totalPrice= fish+onion+veg;
+
+console.log(totalPrice);
+ 
+//ekhon jodi value update korte jay tahole
+
+fish= 60 ;
+onion=50 ;
+veg=50 ;
+
+let updatePrice=fish+onion+veg;
+console.log(updatePrice);
+
+//new way 
+
+let totalMoney= 500;
+
+let egg= 5;
+let kitkat= 2;
+
+let eachEgg= 15;
+let eachKitkat= 40;
+
+let eggPrice=egg*eachEgg;
+let kitkatPrice=kitkat*eachKitkat;
+
+let totalPricee= eggPrice+kitkatPrice;
+
+let remainMoney= totalMoney-totalPricee;
+
+console.log(remainMoney);

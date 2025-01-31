@@ -1,0 +1,4 @@
+Rahim has 500 tk. he went to shop and purchased 5 eggs, 2 kitkat.
+price of each eggs 15tk
+price of each kitkat 40tk
+find the remaining money.
